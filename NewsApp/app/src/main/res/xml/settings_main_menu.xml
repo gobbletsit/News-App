@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Settings">
+
+    <ListPreference
+        android:defaultValue="@string/default_search_value"
+        android:entries="@array/content_options"
+        android:entryValues="@array/content_options"
+        android:key="@string/q_by_key"
+        android:title="@string/category" />
+
+</PreferenceScreen>

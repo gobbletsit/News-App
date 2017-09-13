@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    // PADDING
+    <dimen name="defaultPadding">10dp</dimen>
+    <dimen name="sectionViewPadding">8dp</dimen>
+
+    // TEXT SIZES
+    <dimen name="mainTextSize">16sp</dimen>
+    <dimen name="authorTextSize">12sp</dimen>
+
+    // VIEW MARGIN
+    <dimen name="viewMargin">10dp</dimen>
+
+</resources>

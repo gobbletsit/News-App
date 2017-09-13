@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="content_options">
+        <item>@string/phones_settings</item>
+        <item>@string/processors_settings</item>
+        <item>@string/fourK_settings</item>
+        <item>@string/gpus</item>
+        <item>@string/apple</item>
+        <item>@string/microsoft</item>
+        <item>@string/android</item>
+        <item>@string/ios</item>
+        <item>@string/computex</item>
+
+    </string-array>
+
+</resources>

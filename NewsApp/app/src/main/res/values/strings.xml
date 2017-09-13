@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TechNews</string>
+
+    // CATEGORY OPTIONS STRINGS
+    <string name="phones_settings">Phones</string>
+    <string name="processors_settings">Processors</string>
+    <string name="fourK_settings">4K</string>
+    <string name="gpus">GPU</string>
+    <string name="apple">Apple</string>
+    <string name="microsoft">Microsoft</string>
+    <string name="android">Android</string>
+    <string name="ios">IOS</string>
+    <string name="computex">Computex</string>
+
+    // KEY VALUE STRING FOR MENU
+    <string name="q_by_key">q</string>
+
+    // MENU TITLES
+    <string name="category">"Category"</string>
+    <string name="search_by">Search by</string>
+
+    // DEFAULT KEYWORD FOR SEARCH OPTIONS
+    <string name="default_search_value">Technology</string>
+
+    <string name="unknown">N/A</string>
+    <string name="no_news_found">"No news found"</string>
+    <string name="no_internet_connection">No internet connection.</string>
+
+</resources>
